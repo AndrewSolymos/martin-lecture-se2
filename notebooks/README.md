@@ -1,5 +1,7 @@
 # SE2 Lecture 'GrammarBasedFuzzing' README
 
+# For the Summer semester 2026 questions can be asked at: andrewsolymos@gmail.com
+
 ## Install guide:
 - Info for conda on Windows:
   https://docs.conda.io/projects/conda/en/stable/user-guide/install/windows.html
